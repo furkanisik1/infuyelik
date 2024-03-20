@@ -1,0 +1,8 @@
+$blue: #e2036068 ;
+$primaryColor: #1A1D2B ;
+
+@mixin flexCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
